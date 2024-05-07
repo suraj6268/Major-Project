@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Dell/OneDrive/Documents/NetBeansProjects/Presional%20Project/src/java/com/presional/servlets/EditServlet.java</file>
+            <file>file:/C:/Users/Dell/OneDrive/Documents/NetBeansProjects/Presional%20Project/src/java/com/presional/servlets/LoginServlet.java</file>
+            <file>file:/C:/Users/Dell/OneDrive/Documents/NetBeansProjects/Presional%20Project/src/java/com/presional/servlets/LogoutServlet.java</file>
+            <file>file:/C:/Users/Dell/OneDrive/Documents/NetBeansProjects/Presional%20Project/src/java/com/presional/helper/ConnectionProvider.java</file>
+            <file>file:/C:/Users/Dell/OneDrive/Documents/NetBeansProjects/Presional%20Project/web/index.jsp</file>
+            <file>file:/C:/Users/Dell/OneDrive/Documents/NetBeansProjects/Presional%20Project/src/java/com/presional/entities/Category.java</file>
+            <file>file:/C:/Users/Dell/OneDrive/Documents/NetBeansProjects/Presional%20Project/src/java/com/presional/entities/Message.java</file>
+            <file>file:/C:/Users/Dell/OneDrive/Documents/NetBeansProjects/Presional%20Project/web/normal_navbar.jsp</file>
+            <file>file:/C:/Users/Dell/OneDrive/Documents/NetBeansProjects/Presional%20Project/src/java/com/presional/entities/Post.java</file>
+            <file>file:/C:/Users/Dell/OneDrive/Documents/NetBeansProjects/Presional%20Project/src/java/com/presional/entities/user.java</file>
+            <file>file:/C:/Users/Dell/OneDrive/Documents/NetBeansProjects/Presional%20Project/src/java/com/presional/servlets/LikeServlet.java</file>
+            <file>file:/C:/Users/Dell/OneDrive/Documents/NetBeansProjects/Presional%20Project/src/java/com/presional/servlets/RegisterServlet.java</file>
+            <file>file:/C:/Users/Dell/OneDrive/Documents/NetBeansProjects/Presional%20Project/src/java/com/presional/helper/Helper.java</file>
+            <file>file:/C:/Users/Dell/OneDrive/Documents/NetBeansProjects/Presional%20Project/src/java/com/presional/servlets/AddPostServlet.java</file>
+        </group>
+    </open-files>
+</project-private>
