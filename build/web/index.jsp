@@ -66,8 +66,8 @@
                     <div class="card" >
                         <div class="card-body">
                             <h5 class="card-title">Java Programming</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn primary-backgroung text-white">Read more</a>
+                            <p class="card-text">Java is a high-level, class-based, object-oriented programming language that is designed to have as few implementation dependencies as possible.</p>
+                            <a href="login_page.jsp" class="btn primary-backgroung text-white">Read more</a>
                         </div>
                     </div>
 
@@ -75,9 +75,9 @@
                 <div class="col-md-4">
                     <div class="card" >
                         <div class="card-body">
-                            <h5 class="card-title">Java Programming</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn primary-backgroung text-white">Read more</a>
+                            <h5 class="card-title">C++ Programming</h5>
+                            <p class="card-text">C++ is a general-purpose programming language. It is an extension of the C programming language, or "C with Classes".</p>
+                            <a href="login_page.jsp" class="btn primary-backgroung text-white">Read more</a>
                         </div>
                     </div>
 
@@ -85,9 +85,9 @@
                 <div class="col-md-4">
                     <div class="card" >
                         <div class="card-body">
-                            <h5 class="card-title">Java Programming</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn primary-backgroung text-white">Read more</a>
+                            <h5 class="card-title">C Programming</h5>
+                            <p class="card-text">C is an imperative procedural language, supporting structured programming, lexical variable scope, and recursion, with a static type system.</p>
+                            <a href="login_page.jsp" class="btn primary-backgroung text-white">Read more</a>
                         </div>
                     </div>
 
@@ -100,9 +100,9 @@
                 <div class="col-md-4">
                     <div class="card" >
                         <div class="card-body">
-                            <h5 class="card-title">Java Programming</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn primary-backgroung text-white">Read more</a>
+                            <h5 class="card-title">Python Programming</h5>
+                            <p class="card-text">Python is a general-purpose, high-level programming language. Its design philosophy emphasizes code readability with its notable use of significant whitespace.</p>
+                            <a href="login_page.jsp" class="btn primary-backgroung text-white">Read more</a>
                         </div>
                     </div>
 
@@ -110,9 +110,9 @@
                 <div class="col-md-4">
                     <div class="card" >
                         <div class="card-body">
-                            <h5 class="card-title">Java Programming</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn primary-backgroung text-white">Read more</a>
+                            <h5 class="card-title">Node JS Programming</h5>
+                            <p class="card-text">Node.js is a JavaScript runtime environment that allows developers to use JavaScript to write command line tools and for server-side scripting—running scripts server-side to produce dynamic web pages.</p>
+                            <a href="login_page.jsp" class="btn primary-backgroung text-white">Read more</a>
                         </div>
                     </div>
 
@@ -120,9 +120,9 @@
                 <div class="col-md-4">
                     <div class="card" >
                         <div class="card-body">
-                            <h5 class="card-title">Java Programming</h5>
-                            <p class="card-text">Some quick example text to build on the card title and make up the bulk of the card's content.</p>
-                            <a href="#" class="btn primary-backgroung text-white">Read more</a>
+                            <h5 class="card-title">Web Development</h5>
+                            <p class="card-text">Web development is the process of building, maintaining, and creating websites, apps, or software. It involves aspects like web design, programming, web publishing, and database management.</p>
+                            <a href="login_page.jsp" class="btn primary-backgroung text-white">Read more</a>
                         </div>
                     </div>
 
